@@ -13,8 +13,6 @@ UOS is a compact, research-grade system that turns a machine-verified non-dual t
 * The theory (in Isabelle/HOL) proves that there exists one attributeless substrate Ω that does not act, and appearances φ that relate to each other.
 * The model enforces that structure: Ω is a passive reference, while the classifier learns from relations among φ through a directed acyclic graph.
 
-In short: no agent acts; relations suffice. This model demonstrates that non-duality can be expressed and verified both formally and empirically.
-
 ∀p. Φ(p) → I(p,Ω) 
 
 ---
