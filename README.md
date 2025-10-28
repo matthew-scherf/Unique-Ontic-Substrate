@@ -1,5 +1,5 @@
 
-# Substrate Grounded Neural Network (SGNA)
+# Substrate Grounded Neural Network (SGNA) ∀p. Φ(p) → I(p,Ω)
 
 [![Verification Status](https://img.shields.io/badge/Isabelle-Verified-green)](https://isabelle.in.tum.de/)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -11,7 +11,7 @@ UOS is a compact, research-grade system that turns a machine-verified non-dual t
 * The theory (in Isabelle/HOL) proves that there exists one attributeless substrate Ω that does not act, and appearances φ that relate to each other.
 * The model enforces that structure: Ω is a passive reference, while the classifier learns from relations among φ through a directed acyclic graph.
 
-∀p. Φ(p) → I(p,Ω) 
+ 
 
 ---
 
